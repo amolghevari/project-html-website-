@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This repo is no longer used. Please see  https://github.com/microsoft/devops-project-samples for samples of Azure DevOps Project
 
 | Language | Platform | Author |
@@ -18,3 +19,6 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+=======
+# project-html-website-
+>>>>>>> 301fb04d30eb7900fccbd6e7f167c7c587aebd72
